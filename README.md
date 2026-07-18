@@ -22,10 +22,12 @@ class BackendDeveloper:
         self.name = "Ibrohim"
         self.location = "Uzbekistan 🇺🇿"
         self.role = "Backend Developer"
-        self.language_spoken = ["uz", "ru", "en"]
+        self.languages_spoken = {"uz": "Native", "ru": "Fluent", "en": "Intermediate"}
+        self.skills = ["Python", "Django", "FastAPI", "DRF", "PostgreSQL", "Docker"]
+        self.currently_learning = ["Kubernetes", "Redis", "Celery", "CI/CD"]
 
     def say_hi(self):
-        print("Rahmat tashrif buyurganingiz uchun! Let's build something great together!")
+        print("Thanks for visiting! Let's build something great together! 🚀")
 
 
 me = BackendDeveloper()
@@ -38,7 +40,7 @@ me.say_hi()
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
-<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 &nbsp;&nbsp;🔭 &nbsp;Currently **Self Employed** — building products & freelancing\
 &nbsp;&nbsp;🚀 &nbsp;Specializing in **scalable backend architectures**\
@@ -46,7 +48,8 @@ me.say_hi()
 &nbsp;&nbsp;🤖 &nbsp;Building smart **Telegram Bots** with complex workflows\
 &nbsp;&nbsp;🔌 &nbsp;Real-time apps with **WebSockets**\
 &nbsp;&nbsp;🐳 &nbsp;Containerizing everything with **Docker**\
-&nbsp;&nbsp;📫 &nbsp;Reach me at **[ibrohim.dev.uz@gmail.com](mailto:ibrohim.dev.uz@gmail.com)**
+&nbsp;&nbsp;📫 &nbsp;Reach me at **[ibrohim.dev.uz@gmail.com](mailto:ibrohim.dev.uz@gmail.com)**\
+&nbsp;&nbsp;🌱 &nbsp;Currently learning **Kubernetes · Redis · Celery · CI/CD**
 
 <br clear="both">
 
@@ -89,6 +92,23 @@ me.say_hi()
 </p>
 
 </div>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**django-ecommerce-api**](https://github.com/ibrohim0117/django-ecommerce-api) | 🛒 Full-featured e-commerce REST API with auth & payments | `Django` `DRF` `PostgreSQL` `Docker` |
+| [**fastapi-chat-app**](https://github.com/ibrohim0117/fastapi-chat-app) | 💬 Real-time chat application with WebSocket support | `FastAPI` `WebSocket` `Redis` |
+| [**telegram-shop-bot**](https://github.com/ibrohim0117/telegram-shop-bot) | 🤖 Telegram bot for online shopping with payments | `Python` `Aiogram` `PostgreSQL` |
+| [**task-manager-api**](https://github.com/ibrohim0117/task-manager-api) | ✅ Task management API with JWT & role-based access | `Django` `DRF` `Celery` `Redis` |
+
+</div>
+
+> 💡 *More projects available in my [repositories](https://github.com/ibrohim0117?tab=repositories)*
 
 ---
 
@@ -135,6 +155,12 @@ me.say_hi()
   </a>
   <a href="https://t.me/ibrohim0117">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ibrohim0117">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ibrohim0117">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/ibrohim0117">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
