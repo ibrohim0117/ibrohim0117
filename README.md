@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ibrohim&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Uzbekistan%20🇺🇿&descSize=20&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ibrohim&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20%26%20Python%20Backend%20%7C%20Uzbekistan%20🇺🇿&descSize=20&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Python+%7C+Django+%7C+FastAPI+%7C+DRF;Building+Scalable+Backend+Systems;REST+APIs+%7C+WebSockets+%7C+Telegram+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=LLM+%7C+RAG+%7C+VLM+%7C+OCR;Python+%7C+FastAPI+%7C+Django;Local+AI+Systems+%26+Reliable+Backends" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,21 +16,22 @@
 <div align="center">
 
 ```python
-class BackendDeveloper:
+class AIBackendEngineer:
 
     def __init__(self):
         self.name = "Ibrohim"
         self.location = "Uzbekistan 🇺🇿"
-        self.role = "Backend Developer"
+        self.role = "AI Engineer & Python Backend Developer"
         self.languages_spoken = {"uz": "Native", "ru": "Fluent", "en": "Intermediate"}
-        self.skills = ["Python", "Django", "FastAPI", "DRF", "PostgreSQL", "Docker"]
-        self.currently_learning = ["Kubernetes", "Redis", "Celery", "CI/CD"]
+        self.ai = ["LLM", "RAG", "VLM", "OCR", "Embeddings", "Evaluation"]
+        self.backend = ["Python", "FastAPI", "Django", "PostgreSQL", "Redis", "Docker"]
+        self.currently_learning = ["Model fine-tuning", "vLLM", "Kubernetes"]
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something great together! 🚀")
 
 
-me = BackendDeveloper()
+me = AIBackendEngineer()
 me.say_hi()
 ```
 
@@ -42,14 +43,14 @@ me.say_hi()
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-&nbsp;&nbsp;🔭 &nbsp;Currently **Self Employed** — building products & freelancing\
-&nbsp;&nbsp;🚀 &nbsp;Specializing in **scalable backend architectures**\
-&nbsp;&nbsp;🐍 &nbsp;Python ecosystem enthusiast: **Django · FastAPI · DRF**\
+&nbsp;&nbsp;🧠 &nbsp;Building **AI systems with measured quality**: RAG, VLM and OCR pipelines\
+&nbsp;&nbsp;🔒 &nbsp;Running models **locally** so sensitive documents stay in-house\
+&nbsp;&nbsp;🐍 &nbsp;Python backend: **FastAPI · Django · DRF**\
 &nbsp;&nbsp;🤖 &nbsp;Building smart **Telegram Bots** with complex workflows\
-&nbsp;&nbsp;🔌 &nbsp;Real-time apps with **WebSockets**\
-&nbsp;&nbsp;🐳 &nbsp;Containerizing everything with **Docker**\
+&nbsp;&nbsp;🐳 &nbsp;Shipping with **Docker** and **GitHub Actions**\
+&nbsp;&nbsp;👨‍🏫 &nbsp;Teaching Python backend at **MARS IT**\
 &nbsp;&nbsp;📫 &nbsp;Reach me at **[ibrohim.dev.uz@gmail.com](mailto:ibrohim.dev.uz@gmail.com)**\
-&nbsp;&nbsp;🌱 &nbsp;Currently learning **Kubernetes · Redis · Celery · CI/CD**
+&nbsp;&nbsp;🌱 &nbsp;Currently learning **Model fine-tuning · vLLM · Kubernetes**
 
 <br clear="both">
 
@@ -58,6 +59,17 @@ me.say_hi()
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
+
+### 🧠 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLM-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-483D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
 ### 💻 Languages & Frameworks
 <p>
@@ -71,6 +83,7 @@ me.say_hi()
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
@@ -78,6 +91,7 @@ me.say_hi()
 ### ⚙️ DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -101,10 +115,11 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**django-ecommerce-api**](https://github.com/ibrohim0117/django-ecommerce-api) | 🛒 Full-featured e-commerce REST API with auth & payments | `Django` `DRF` `PostgreSQL` `Docker` |
-| [**fastapi-chat-app**](https://github.com/ibrohim0117/fastapi-chat-app) | 💬 Real-time chat application with WebSocket support | `FastAPI` `WebSocket` `Redis` |
-| [**telegram-shop-bot**](https://github.com/ibrohim0117/telegram-shop-bot) | 🤖 Telegram bot for online shopping with payments | `Python` `Aiogram` `PostgreSQL` |
-| [**task-manager-api**](https://github.com/ibrohim0117/task-manager-api) | ✅ Task management API with JWT & role-based access | `Django` `DRF` `Celery` `Redis` |
+| [**xalqaro-xatlar**](https://github.com/ibrohim0117/xalqaro-xatlar) | 📄 Offline extraction of 6 fields from scanned legal letters. On 125 unseen letters: summary 97%, date 79%, signer 79% | `Qwen VLM` `MLX` `Tesseract` `RapidOCR` `FastAPI` |
+| [**yurist-ai**](https://github.com/ibrohim0117/yurist-ai) | ⚖️ RAG bot on Uzbek legislation: 880 documents, 44,000 chunks, 200+ users, citation checks. Case study, code is private | `pgvector` `Cohere` `Gemini` `Redis` `Docker` |
+| [**semantic-qa**](https://github.com/ibrohim0117/semantic-qa) | 🔎 Semantic FAQ search over 3,048 questions: ~39 ms embedding, ~3 ms search. In progress | `bge-m3` `Qdrant` `PostgreSQL` |
+| [**Medicalka**](https://github.com/ibrohim0117/Medicalka) | 🩺 Social network API for the medical community: JWT, email verification, background jobs, CI | `FastAPI` `PostgreSQL` `Celery` `Redis` `Docker` |
+| [**EMS-with-FAST-API**](https://github.com/ibrohim0117/EMS-with-FAST-API) | 🗓️ FastAPI service with users, JWT authentication and unit tests | `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` |
 
 </div>
 
